@@ -1,4 +1,4 @@
-package abcBank;
+package Assignments;
 
 import java.util.Scanner;
 
