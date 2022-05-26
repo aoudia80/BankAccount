@@ -1,0 +1,11 @@
+
+
+Question3:  What's difference between literal approach and new keyword approach of String object creation?
+	  Both expressions give you a string object, the difference is when you create a String object using the new()	
+	  operator it creates it in the heap memory
+	  in the other hand when you create an object using String literal syntax it may return an existing 
+	  object from String pool for future reuse  
+	 
+Question4:  What is the difference between == operator and equals() ?
+			
+		== operator checks if both objects are in the same memory location but equals method used to compare objects
